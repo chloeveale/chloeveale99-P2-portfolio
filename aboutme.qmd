@@ -2,6 +2,12 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+At the start of my college career, I had plans to be an educator in high school math. I graduated with a degree in mathematics, but while pursuing the degree, I took an interest in data analytics. After earning my bachelor's degree, I decided to go back to school and go after a master's degree in data analytics.
 
-For details, see the exercise instructions. 
+Before the master's program, I did not have much experience in programming. During these 2 years, I've gotten experience in R, SQL, Python, Tableau, and various other programs. I'm hoping to get more practice using what I've learned in this program during this class.
+
+Apart from what I do at school, I work at iHeartMedia as a Data Analyst intern, and am currently working on dashboards for the company. When I'm not at work or school, I love to read, cook, or spend time with friends and family.
+
+![Profile Picture](https://raw.githubusercontent.com/chloeveale/chloeveale99-p2-portfolio/main/IMG_5288.jpeg)
+
+-   [Visit the Data Is Ugly subreddit](https://www.reddit.com/r/dataisugly/)

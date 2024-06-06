@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOURNAME Data Analysis Portfolio"
+  title: "Chloe Veale Data Analysis Portfolio"
   navbar:
     left:
       - text: "About Me"
@@ -20,12 +20,12 @@ website:
             file: tidytuesday-exercise/tidytuesday-exercise.qmd
     right:
       - icon: github 
-        href: URL-TO-THIS-REPOSITORY-HERE        
+        href: https://github.com/chloeveale/chloeveale99-P2-portfolio.git        
 
 format:
   html:
-    theme: cosmo
-    highlight: zenburn
+    theme: quartz
+    highlight: slate
     css: styles.css
     toc: FALSE
 

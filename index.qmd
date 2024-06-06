@@ -1,15 +1,13 @@
 ---
-title: "My website and data analysis portfolio"
+title: "Chloe Veale Data Analysis Portfolio"
 ---
 
-# Hello
+# Hi, everyone!
 
-### And hello again
+### Excited to learn more with you all this semester.
 
 Welcome to **my website** and _data analysis portfolio._ 
 
 
-* Please use the `Menu Bar` above to look around.
-* Have fun!
-
-**Feel free to change this text any way you want 😁!**
+* Learn a little more about me and my journey during my years at UTSA.
+* Click on the tabs above!
